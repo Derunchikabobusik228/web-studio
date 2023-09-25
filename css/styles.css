@@ -1,14 +1,9 @@
-.white {
-  background-color: black;
-  color: white;
-}
-.blue {
-    background-color: black;
-    color: deepskyblue;
-}
-.black {
-    background-color: black;
-    color: white;
+:root {
+  --accent-color: #2196F3;
+  --main-color: #212121;
+  --add-color: #757575;
+  --add-white: #FFFFFF;
+  --main-bg-color: #2F303A;
 }
     
 
