@@ -5,5 +5,11 @@
   --add-white: #FFFFFF;
   --main-bg-color: #2F303A;
 }
+.white {
+  font-weight: 900;
+}
+.stars-title {
+  font-weight: 700;
+}
     
 
