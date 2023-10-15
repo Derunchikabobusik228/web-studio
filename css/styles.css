@@ -16,26 +16,20 @@ letter-spacing: 0.78px;
 .nav-list {
   font-family: Roboto;
 font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+
 letter-spacing: 0.28px;
 }
 .contact-link {
   font-family: Roboto;
   font-size: 14px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
+
   letter-spacing: 0.28px;
 }
 .hero {
   text-align: center;
 font-family: Roboto;
 font-size: 44px;
-font-style: normal;
-font-weight: 900;
-line-height: 60px; /* 136.364% */
+
 letter-spacing: 2.64px;
 text-transform: uppercase;
 }
@@ -43,43 +37,33 @@ text-transform: uppercase;
   text-align: center;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 700;
-line-height: 30px; /* 187.5% */
+
 letter-spacing: 0.96px;
 }
 .advantages-list-title {
   font-family: Roboto;
 font-size: 14px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+
 letter-spacing: 0.42px;
 text-transform: uppercase;
 }
 .advantages-list-text {
   font-family: Roboto;
 font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; /* 171.429% */
+
 letter-spacing: 0.42px;
 }
 .work-title {
   text-align: center;
 font-family: Roboto;
 font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+
 letter-spacing: 1.08px;
 }
 .worker-list {
   text-align: center;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+
 letter-spacing: 0.48px;
 }
