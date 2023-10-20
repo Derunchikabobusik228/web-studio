@@ -1,5 +1,5 @@
 :root {
-  --accent-color: ;
+  --accent-color: #2196F3;
   --main-color: #212121;
   --add-color: #757575;
   --add-white: #FFFFFF;
@@ -10,21 +10,22 @@ body {
 .logo{
   font-family: Raleway;
 font-size: 26px;
-
+color:var(--accent-color);
 letter-spacing: 0.78px;
 }
 .nav-link {
   font-family: Roboto;
 font-size: 14px;
-
+color: (--main-color);
 letter-spacing: 0.28px;
 }
 .contact-link {
   font-family: Roboto;
   font-size: 14px;
-   color: #757575;
+  font-weight: 500;
+  color:  var(--add-color);
   letter-spacing: 0.28px;
-  text-decoration: dashed;
+  text-decoration: none;
 }
 .hero {
   color: white;
@@ -36,6 +37,7 @@ letter-spacing: 2.64px;
 text-transform: uppercase;
 }
 .hero-btn {
+  color: white;
   text-align: center;
 font-family: Roboto;
 font-size: 16px;
@@ -71,4 +73,11 @@ font-family: Roboto;
 font-size: 16px;
 
 letter-spacing: 0.48px;
+}
+.advantages-list-title {
+ color: #212121;
+ text-transform: lowercase;
+}
+.advantages-list-text {
+  color: #757575;
 }
