@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #2196F3;
+  --accent-color: ;
   --main-color: #212121;
   --add-color: #757575;
   --add-white: #FFFFFF;
@@ -22,10 +22,12 @@ letter-spacing: 0.28px;
 .contact-link {
   font-family: Roboto;
   font-size: 14px;
-
+   color: #757575;
   letter-spacing: 0.28px;
+  text-decoration: dashed;
 }
 .hero {
+  color: white;
   text-align: center;
 font-family: Roboto;
 font-size: 44px;
@@ -41,6 +43,8 @@ font-size: 16px;
 letter-spacing: 0.96px;
 }
 .advantages-list-title {
+  color: #212121;
+  text-transform: capitalize;
   font-family: Roboto;
 font-size: 14px;
 
@@ -54,6 +58,7 @@ font-size: 14px;
 letter-spacing: 0.42px;
 }
 .work-title {
+  color: #212121;
   text-align: center;
 font-family: Roboto;
 font-size: 36px;
